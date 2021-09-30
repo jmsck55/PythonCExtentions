@@ -1,5 +1,11 @@
 # PythonCExtentions
 
+Goals:
+
+1. Write an Euphoria extension for Python, so that Python can call Euphoria's datatypes.
+
+2. Write a Python wrapper for Euphoria.
+
 Resources:
 
 * Write C++ extensions for Python:
