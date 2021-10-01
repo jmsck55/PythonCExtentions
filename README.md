@@ -2,7 +2,7 @@
 
 Goals:
 
-1. Write an Euphoria extension for Python, so that Python can call Euphoria's datatypes.
+1. Write an Euphoria extension for Python, so that Python can use Euphoria's datatypes, with associated functions.
 
 2. Write a Python wrapper for Euphoria.
 
